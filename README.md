@@ -2,7 +2,7 @@
 Delegate365 is an Add-On for customers using Microsoft Office 365 and allows delegation, self-management, license-management and auditing. The software is provided as Software-as-a-Service solution in the Microsoft Cloud on Microsoft Azure and can be used instantly, see [Delegate365](https://www.Delegate365.com).
 
 
-***Note: This manual is currently in work. atwork will complete this documentation in the next weeks. ***
+***Note: This manual is currently in work. atwork will complete this documentation in the next weeks.***
 
 Currently available modules:
 - [Reports](./13-Reports/1-Reports.md)
@@ -22,14 +22,13 @@ Delegate365 consists of a web portal and services, completely running on [Micros
 With Delegate365 Portal Administrators can define users in a simple web portal that shall manage an office, a subsidiary, a department or any other organizational unit.
 Common tasks like creation of users, distribution groups, assigning licenses or resetting passwords can easily be done with a minimum of effort. This is all restricted to the zone assigned to the local administrator (scope administrator).
 
-
 ## More information
 For information about atwork pls. contact [**atwork**](https://www.atwork-it.com).
 
 For information about Delegate365 pls. visit [**Delegate365**](https://www.Delegate365.com).
 
 ## Remarks
-All information in this document, including Internet or other external references, is subject to change without notice. No part of this document may be reproduced or stored in a retrieval system or transmitted in any form or by any means without the express written permission of atwork gmbh (called "[atwork](https://www.atwork-it.com)" herein).
+All information in this documentation, including Internet or other external references, is subject to change without notice. No part of this document may be reproduced or stored in a retrieval system or transmitted in any form or by any means without the express written permission of atwork gmbh (called "[atwork](https://www.atwork-it.com)" herein).
 Any names of actual companies and products mentioned herein may be the trademarks of their respective owners.
 
 (c) by [atwork](https://www.atwork-it.com)
