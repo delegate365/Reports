@@ -1,3 +1,3 @@
-"OU";"Title";"Identity";"DisplayName";"SimpleDisplayName";"LastName";"FirstName";"WindowsEmailAddress";"Status";"AssistantName";"City";"Company";"CountryOrRegion";"Department";"Fax";"HomePhone";"Initials";"MobilePhone";"Office";"Phone";"PostalCode";"StateOrProvince";"StreetAddress";"IsValid";
-"Seattle";"";"Bob Kelly (TAILSPIN)";"Bob Kelly (TAILSPIN)";"";"Kelly";"Bob";"bobk@tailspintoys.com";"Cloud";"";"Vienna";"Vienna";"";"";"";"";"BK";"";"";"";"";"";"";"yes";
-"New York";"";"Second Contact";"Second Contact";"";"Contact";"Second";"second@delegate365.com";"Cloud";"";"";"";"";"atwork";"";"";"";"";"";"";"";"";"";"yes";
+"OU","Title","Identity","DisplayName","SimpleDisplayName","LastName","FirstName","WindowsEmailAddress","Status","AssistantName","City","Company","CountryOrRegion","Department","Fax","HomePhone","Initials","MobilePhone","Office","Phone","PostalCode","StateOrProvince","StreetAddress","IsValid",
+"Seattle","","Bob Kelly (TAILSPIN)","Bob Kelly (TAILSPIN)","","Kelly","Bob","bobk@tailspintoys.com","Cloud","","Vienna","Vienna","","","","","BK","","","","","","","yes",
+"New York","","Second Contact","Second Contact","","Contact","Second","second@delegate365.com","Cloud","","","","","atwork","","","","","","","","","","yes",

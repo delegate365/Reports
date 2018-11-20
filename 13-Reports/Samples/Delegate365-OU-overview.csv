@@ -1,18 +1,18 @@
-"OU";"Type";"Name";"Upn";
-"Seattle";"Contact";"Bob Kelly (TAILSPIN)";"bobk@tailspintoys.com";
-"Seattle";"Distribution Group";"All Employees";"Employees@delegate365.com";
-"Seattle";"Distribution Group";"Executives";"Executives@delegate365.com";
-"Seattle";"Distribution Group";"Finance Team";"FinanceTeam@delegate365.com";
-"Seattle";"Distribution Group";"Legal Team";"LegalTeam@delegate365.com";
-"Seattle";"Distribution Group";"Sales Team";"SalesTeam@delegate365.com";
-"Seattle";"Distribution Group";"Tailspin Toys";"Tailspin@delegate365.com";
-"Seattle";"Dynamic Group";"Dynamic Group";"dynamic-group@delegate365.com";
-"Seattle";"Office 365 Group";"Business Development";"BusinessDevelopment@delegate365.com";
-"New York";"Office 365 Group";"Collaboration";"collaboration@delegate365.com";
-"New York";"Office 365 Group";"DG-2000 Feedback";"dg-2000feedback@delegate365.com";
-"New York";"Office 365 Group";"Electronic Events";"ElectronicEvents@delegate365.com";
-"New York";"Office 365 Group";"Engineering";"Engineering@delegate365.com";
-"New York";"Office 365 Group";"Finance";"Finance@delegate365.com";
-"Seattle";"Resource";"Conf Room Adams";"Adams@delegate365.com";
-"Seattle";"Resource";"Conf Room Baker";"Baker@delegate365.com";
-"New York";"Resource";"Conf Room Crystal";"Crystal@delegate365.com";
+"OU","Type","Name","Upn",
+"Seattle","Contact","Bob Kelly (TAILSPIN)","bobk@tailspintoys.com",
+"Seattle","Distribution Group","All Employees","Employees@delegate365.com",
+"Seattle","Distribution Group","Executives","Executives@delegate365.com",
+"Seattle","Distribution Group","Finance Team","FinanceTeam@delegate365.com",
+"Seattle","Distribution Group","Legal Team","LegalTeam@delegate365.com",
+"Seattle","Distribution Group","Sales Team","SalesTeam@delegate365.com",
+"Seattle","Distribution Group","Tailspin Toys","Tailspin@delegate365.com",
+"Seattle","Dynamic Group","Dynamic Group","dynamic-group@delegate365.com",
+"Seattle","Office 365 Group","Business Development","BusinessDevelopment@delegate365.com",
+"New York","Office 365 Group","Collaboration","collaboration@delegate365.com",
+"New York","Office 365 Group","DG-2000 Feedback","dg-2000feedback@delegate365.com",
+"New York","Office 365 Group","Electronic Events","ElectronicEvents@delegate365.com",
+"New York","Office 365 Group","Engineering","Engineering@delegate365.com",
+"New York","Office 365 Group","Finance","Finance@delegate365.com",
+"Seattle","Resource","Conf Room Adams","Adams@delegate365.com",
+"Seattle","Resource","Conf Room Baker","Baker@delegate365.com",
+"New York","Resource","Conf Room Crystal","Crystal@delegate365.com",

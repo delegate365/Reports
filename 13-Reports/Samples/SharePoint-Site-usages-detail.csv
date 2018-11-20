@@ -1,10 +1,10 @@
-"Report Refresh Date";"Site URL";"Owner Display Name";"Is Deleted";"Last Activity Date";"File Count";"Page View Count";"Visited Page Count";"Storage Used (Byte)";"Storage Used (Gb)";"Storage Allocated (Byte)";"Storage Allocated (Gb)";"Root Web Template";"Report Period";
-"2018-11-18";"https://delegate365.sharepoint.com/sites/Project-Mango";"Project-Mango";"False";"2018-11-18";"209";"0";"0";"3920849955";"3.651576";"1099511627776";"1024";"Group";"7";
-"2018-11-18";"https://delegate365.sharepoint.com/sites/Delegate36531";"Delegate365";"False";"";"0";"0";"0";"1437624";"0.0013389";"1099511627776";"1024";"Group";"7";
-"2018-11-18";"https://delegate365.sharepoint.com/sites/board2";"board";"False";"2018-11-18";"5488";"6";"2";"13159297604";"12.25555";"1099511627776";"1024";"Group";"7";
-"2018-11-18";"https://delegate365.sharepoint.com/sites/atwork791";"atwork";"True";"2017-12-12";"2";"0";"0";"1619339";"0.0015081";"1099511627776";"1024";"Group";"7";
-"2018-11-18";"https://delegate365.sharepoint.com/sites/mva2";"mva2";"False";"";"0";"0";"0";"1431699";"0.0013334";"1099511627776";"1024";"Group";"7";
-"2018-11-18";"https://delegate365.sharepoint.com/sites/office128";"office";"False";"2018-11-17";"24179";"67";"14";"10947693206";"10.19583";"1099511627776";"1024";"Group";"7";
-"2018-11-18";"https://delegate365.sharepoint.com/sites/Customer5";"Customer5";"True";"2018-08-22";"1";"0";"0";"2053210";"0.0019122";"1099511627776";"1024";"Group";"7";
-"2018-11-18";"https://delegate365.sharepoint.com/sites/Delegate36538";"Delegate365";"False";"";"0";"0";"0";"1437600";"0.0013389";"1099511627776";"1024";"Group";"7";
-"2018-11-18";"https://delegate365.sharepoint.com/sites/Project-Lima";"Project-Lima";"False";"2018-11-15";"64";"2";"1";"39744283";"0.0370148";"1099511627776";"1024";"Group";"7";
+"Report Refresh Date","Site URL","Owner Display Name","Is Deleted","Last Activity Date","File Count","Page View Count","Visited Page Count","Storage Used (Byte)","Storage Used (Gb)","Storage Allocated (Byte)","Storage Allocated (Gb)","Root Web Template","Report Period",
+"2018-11-18","https://delegate365.sharepoint.com/sites/Project-Mango","Project-Mango","False","2018-11-18","209","0","0","3920849955","3.651576","1099511627776","1024","Group","7",
+"2018-11-18","https://delegate365.sharepoint.com/sites/Delegate36531","Delegate365","False","","0","0","0","1437624","0.0013389","1099511627776","1024","Group","7",
+"2018-11-18","https://delegate365.sharepoint.com/sites/board2","board","False","2018-11-18","5488","6","2","13159297604","12.25555","1099511627776","1024","Group","7",
+"2018-11-18","https://delegate365.sharepoint.com/sites/atwork791","atwork","True","2017-12-12","2","0","0","1619339","0.0015081","1099511627776","1024","Group","7",
+"2018-11-18","https://delegate365.sharepoint.com/sites/mva2","mva2","False","","0","0","0","1431699","0.0013334","1099511627776","1024","Group","7",
+"2018-11-18","https://delegate365.sharepoint.com/sites/office128","office","False","2018-11-17","24179","67","14","10947693206","10.19583","1099511627776","1024","Group","7",
+"2018-11-18","https://delegate365.sharepoint.com/sites/Customer5","Customer5","True","2018-08-22","1","0","0","2053210","0.0019122","1099511627776","1024","Group","7",
+"2018-11-18","https://delegate365.sharepoint.com/sites/Delegate36538","Delegate365","False","","0","0","0","1437600","0.0013389","1099511627776","1024","Group","7",
+"2018-11-18","https://delegate365.sharepoint.com/sites/Project-Lima","Project-Lima","False","2018-11-15","64","2","1","39744283","0.0370148","1099511627776","1024","Group","7",

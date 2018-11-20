@@ -1,4 +1,4 @@
-"OU";"Name";"PrimarySmtpAddress";"Status";"GroupType";
-"Seattle";"Seattle Group";"seattle-group@delegate365.com";"Cloud";"Universal";
-"Seattle";"HR department";"hr@delegate365.com";"Cloud";"Universal";
-"New York";"NYC Group";"nyc-group@delegate365.com";"Cloud";"Universal";
+"OU","Name","PrimarySmtpAddress","Status","GroupType",
+"Seattle","Seattle Group","seattle-group@delegate365.com","Cloud","Universal",
+"Seattle","HR department","hr@delegate365.com","Cloud","Universal",
+"New York","NYC Group","nyc-group@delegate365.com","Cloud","Universal",

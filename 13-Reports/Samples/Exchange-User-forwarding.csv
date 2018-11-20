@@ -1,6 +1,6 @@
-"OU";"DisplayName";"UserPrincipalName";"ForwardingAddress";"ForwardingSMTPAddress";"DeliverToMailboxandForward";"ExceptionMessage";
-"Seattle";"Irvin Sayers";"IrvinS@delegate365.com";"IrvinSayers1@outlook.com";"";"True";"";
-"Seattle";"Joni Sherman";"JoniS@delegate365.com";"";"";"False";"";
-"Seattle";"Roman Fogg";"RomanF@delegate365.com";"RomanF@gmail.com";"";"False";"";
-"Seattle";"Christoph Walken";"ChristophW@delegate365.com";"";"";"False";"";
-"New York";"Nestor Wilke";"NestorW@delegate365.com";"";"";"False";"";
+"OU","DisplayName","UserPrincipalName","ForwardingAddress","ForwardingSMTPAddress","DeliverToMailboxandForward","ExceptionMessage",
+"Seattle","Irvin Sayers","IrvinS@delegate365.com","IrvinSayers1@outlook.com","","True","",
+"Seattle","Joni Sherman","JoniS@delegate365.com","","","False","",
+"Seattle","Roman Fogg","RomanF@delegate365.com","RomanF@gmail.com","","False","",
+"Seattle","Christoph Walken","ChristophW@delegate365.com","","","False","",
+"New York","Nestor Wilke","NestorW@delegate365.com","","","False","",

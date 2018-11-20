@@ -1,7 +1,7 @@
-"Report Refresh Date";"Site URL";"Owner Display Name";"Is Deleted";"Last Activity Date";"File Count";"Active File Count";"Storage Used (Byte)";"Storage Used (Gb)";"Storage Allocated (Byte)";"Storage Allocated (Gb)";"Report Period";
-"2018-11-18";"https://delegate365-my.sharepoint.com/personal/gone_martin_sivert_com";"Martin Sivert";"True";"2018-04-29";"9";"0";"0";"0";"1099511627776";"1024";"7";
-"2018-11-18";"https://delegate365-my.sharepoint.com/personal/adele_vance_delegate365_onmicrosoft_com";"Adele Vance";"False";"";"4";"0";"2528195";"0.0023546";"1099511627776";"1024";"7";
-"2018-11-18";"https://delegate365-my.sharepoint.com/personal/diego_siciliani_com";"Diego Siciliani";"False";"2018-11-14";"1064";"13";"5862302918";"5.459695";"1099511627776";"1024";"7";
-"2018-11-18";"https://delegate365-my.sharepoint.com/personal/dan_kern-it_com";"Dan Kern";"False";"2018-11-15";"40";"8";"259760253";"0.2419206";"1099511627776";"1024";"7";
-"2018-11-18";"https://delegate365-my.sharepoint.com/personal/joni_sherman_org";"Joni Sherman";"False";"2018-08-16";"52";"0";"82178336";"0.0765345";"1099511627776";"1024";"7";
-"2018-11-18";"https://delegate365-my.sharepoint.com/personal/no-it_com";"Nick Oswald";"False";"2018-11-17";"12";"2";"234723630";"0.2186034";"1099511627776";"1024";"7";
+"Report Refresh Date","Site URL","Owner Display Name","Is Deleted","Last Activity Date","File Count","Active File Count","Storage Used (Byte)","Storage Used (Gb)","Storage Allocated (Byte)","Storage Allocated (Gb)","Report Period",
+"2018-11-18","https://delegate365-my.sharepoint.com/personal/gone_martin_sivert_com","Martin Sivert","True","2018-04-29","9","0","0","0","1099511627776","1024","7",
+"2018-11-18","https://delegate365-my.sharepoint.com/personal/adele_vance_delegate365_onmicrosoft_com","Adele Vance","False","","4","0","2528195","0.0023546","1099511627776","1024","7",
+"2018-11-18","https://delegate365-my.sharepoint.com/personal/diego_siciliani_com","Diego Siciliani","False","2018-11-14","1064","13","5862302918","5.459695","1099511627776","1024","7",
+"2018-11-18","https://delegate365-my.sharepoint.com/personal/dan_kern-it_com","Dan Kern","False","2018-11-15","40","8","259760253","0.2419206","1099511627776","1024","7",
+"2018-11-18","https://delegate365-my.sharepoint.com/personal/joni_sherman_org","Joni Sherman","False","2018-08-16","52","0","82178336","0.0765345","1099511627776","1024","7",
+"2018-11-18","https://delegate365-my.sharepoint.com/personal/no-it_com","Nick Oswald","False","2018-11-17","12","2","234723630","0.2186034","1099511627776","1024","7",

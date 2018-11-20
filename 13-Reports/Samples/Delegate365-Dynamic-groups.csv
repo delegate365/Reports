@@ -1,3 +1,3 @@
-"OU";"DisplayName";"GroupName";"Identity";"PrimarySmtpAddress";"Status";"Alias";
-"Seattle";"testdynamic";"testdynamic";"testdynamic";"testdynamic@delegate365.onmicrosoft.com";"Cloud";"testdynamic";
-"New York";"HR-group";"HR-group";"HR-group";"hr-group@delegate365.onmicrosoft.com";"Cloud";"HR-group";
+"OU","DisplayName","GroupName","Identity","PrimarySmtpAddress","Status","Alias",
+"Seattle","testdynamic","testdynamic","testdynamic","testdynamic@delegate365.onmicrosoft.com","Cloud","testdynamic",
+"New York","HR-group","HR-group","HR-group","hr-group@delegate365.onmicrosoft.com","Cloud","HR-group",
