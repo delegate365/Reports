@@ -1,13 +1,4 @@
----
-title: ReadMe
-author: TP
-date: 2018-10-22
-version: 8.1
-ref: https://www.delegate365.com
-intent: Overview
-utterances: Delegate365,D365,overview,readme,start
----
-#Delegate365 Online Manual
+# Delegate365 Online Manual
 Delegate365 is an Add-On for customers using Microsoft Office 365 and allows delegation, self-management, license-management and auditing. The software is provided as Software-as-a-Service solution in the Microsoft Cloud on Microsoft Azure and can be used instantly, see [Delegate365](https://www.Delegate365.com).
 
 
