@@ -1,0 +1,10 @@
+"OU";"Name";"PrimarySmtpAddress";"Status";"GroupType";
+"New York";"Accounting";"accounting@delegate365.com";"Cloud";"Private";
+"Seattle";"Support Group";"supportgroup@delegate365.onmicrosoft.com";"Cloud";"Public";
+"Seattle";"Project-Tango";"project-tango@delegate365.com";"Cloud";"Public";
+"Seattle";"Delegate365 US";"delegate365us@delegate365.com";"Cloud";"Private";
+"New York";"Delegate365 DE";"delegate365de@atwork-it.de";"Cloud";"Private";
+"Seattle";"office";"office@delegate365.com";"Cloud";"Private";
+"Seattle";"Invoices";"invoices@delegate365.com";"Cloud";"Private";
+"Seattle";"Dev";"dev@delegate365.com";"Cloud";"Public";
+"New York";"DevTest";"devtest@delegate365.com";"Cloud";"Public";

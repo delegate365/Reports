@@ -1,0 +1,8 @@
+"OU";"Identity";"DisplayName";"MailBoxName";"PrimarySmtpAddress";"Status";"RecipientTypeDetails";
+"Seattle";"Conf Room Adams";"Conf Room Adams";"Conf Room Adams";"Adams@delegate365.com";"Cloud";"RoomMailbox";
+"Seattle";"Conf Room Baker";"Conf Room Baker";"Conf Room Baker";"Baker@delegate365.com";"Cloud";"RoomMailbox";
+"Seattle";"Conf Room Crystal";"Conf Room Crystal";"Conf Room Crystal";"Crystal@delegate365.com";"Cloud";"RoomMailbox";
+"Seattle";"Conf Room Hood";"Conf Room Hood";"Conf Room Hood";"Hood@delegate365.com";"Cloud";"RoomMailbox";
+"New York";"Conf Room Rainier";"Conf Room Rainier";"Conf Room Rainier";"Rainier@delegate365.com";"Cloud";"RoomMailbox";
+"New York";"Conf Room Stevens";"Conf Room Stevens";"Conf Room Stevens";"Stevens@delegate365.com";"Cloud";"RoomMailbox";
+"New York";"Shared Mailbox1";"Shared Mailbox1";"Shared Mailbox1";"shared-mailbox1@delegate365.com";"Cloud";"EquipmentMailbox";
