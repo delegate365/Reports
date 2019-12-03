@@ -130,8 +130,6 @@ This list includes an enumeration of currently available reports in Delegate365.
 | Delegate365  | License-statistics                           | -           | [CSV](./Samples/Delegate365-License-statistics.csv) [XLSX](./Samples/Delegate365-License-statistics.xlsx) | Shows a list of used Office 365 licenses and license quotas for each OU and license.
 | Delegate365  | OU overview                                  | -           | [CSV](./Samples/Delegate365-OU-overview.csv) [XLSX](./Samples/Delegate365-OU-overview.xlsx) | A list of objects that are assigned to an OU the admin can manage. 
 
-***Note:*** To download the Delegate365 report list as Excel file, click [here](./Samples/Delegate365-Reports-List.xlsx). If you want to get all sample reports in CSV or Excel format, you can download a [ZIP file](./Samples/Delegate365-Reports-Samples.zip) containing all files for further usage.
-
 ## Remarks
 
 This is a consolidated version of the rpevious versions in this repository for a quick overview of reports that are available in Delegate365. This list will change with newer versions and will b eupdated continuously.
