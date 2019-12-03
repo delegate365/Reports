@@ -19,7 +19,7 @@ The report generation can take some minutes, depending on the size of data. The 
 
 [![link](./Samples/report-notification.png)](./Samples/report-notification.png "Click to enlarge")
 
-There is no file backup, so pls. download the files if needed within one week. You find a list of all available reports with sample report files here.
+There is no file backup, so pls. download the files if needed within the valid time frame. Find a list of all available reports with sample report files here.
 
 ## Report Overview
 
