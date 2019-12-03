@@ -17,9 +17,15 @@ The reports are generated as CSV file and as Excel file. The filename is the job
 
 The report generation can take some minutes, depending on the size of data. The generated reort files are available for 7 days are are automatically deleted after that time. There is no file backup, so pls. download the files if needed within one week. You find a list of all available reports with sample report files here.
 
+## Report Overview
+
+The following graphics shows an overview of the available reports in the current version of Delegate365.
+
+[![link](./Samples/delegate365-reports-overview.png)](./Samples/delegate365-reports-overview.png "Click to enlarge")
+
 ## Report List
 
-This list includes an enumeration of currently available reports in Delegate365. Reports that are marked with Admin-Only are only available for users who have the report administration permission assigned. Click on the sample link to see a sample output in CSV or Excel format with some records to understand the fields that are included. 
+This list includes an enumeration of currently available reports in Delegate365. Reports that are marked with Admin-Only are only available for users who have the *report administration permission* assigned. Click on the sample link to see a sample output in CSV or Excel format with some records to understand the fields that are included. 
 
 
 | Category               | Report                    | Admin-Only | Sample                                  |  Description      |
@@ -31,6 +37,10 @@ This list includes an enumeration of currently available reports in Delegate365.
 | Risk Events            | Malware                   | -          | [CSV](./Samples/Risk-Events-Malware.csv) [XLSX](./Samples/Risk-Events-Malware.xlsx) | Get sign-ins from devices infected with malware that are known to actively communicate with a malicious bot by correlating IP addresses.
 | Risk Events            | Suspicious IPs            | -          | [CSV](./Samples/Risk-Events-Suspicious-IPs.csv) [XLSX](./Samples/Risk-Events-Suspicious-IPs.xlsx) | Get IP addresses from which a high number of failed sign-in attempts were seen over a short period of time.
 | Risk Events            | Unfamiliar locations      | -          | [CSV](./Samples/Risk-Events-Unfamiliar-locations.csv) [XLSX](./Samples/Risk-Events-Unfamiliar-locations.xlsx) | User logins from unfamiliar locations not close to known and familiar locations (after an initial learning period of 30 days).
+| Identity Registration and Usage | Registration details     | -          | [CSV](./Samples/Identity-Registration-details.csv) [XLSX](./Samples/Identity-Registration-details.xlsx) | Get a list of credential user registration details objects for the tenant.
+| Identity Registration and Usage | Usage details            | -          | [CSV](./Samples/Identity-Usage-details.csv) [XLSX](./Samples/Identity-Usage-details.xlsx) | Get a list of user credential usage details objects for a given tenant. Details include user information, status of the reset, and the reason for failure.
+| Identity Registration and Usage | Registration count       | yes        | [CSV](./Samples/Identity-Registration-count.csv) [XLSX](./Samples/Identity-Registration-count.xlsx) | Report the current state of how many users in your organization are registered for self-service password reset and multi-factor authentication (MFA) capabilities.
+| Identity Registration and Usage | Credential usage summary | yes        | [CSV](./Samples/Identity-Credential-usage-summary.csv) [XLSX](./Samples/Identity-Credential-usage-summary.xlsx) | Get a list of credential user registration details objects for a given tenant.
 | Office 365             | Active user detail        | -          | [CSV](./Samples/Office365-Active-user-detail.csv) [XLSX](./Samples/Office365-Active-user-detail.xlsx) | Get all active users and their current licenses status including the last activity date.
 | Office 365             | Active user counts        | yes        | [CSV](./Samples/Office365-Active-user-counts.csv) [XLSX](./Samples/Office365-Active-user-counts.xlsx) | Get the count of daily active users in the reporting period by product.
 | Office 365             | Services user counts      | yes        | [CSV](./Samples/Office365-Services-user-counts.csv) [XLSX](./Samples/Office365-Services-user-counts.xlsx) | Get the count of users by activity type and Office 365 service.
@@ -100,10 +110,14 @@ This list includes an enumeration of currently available reports in Delegate365.
 | Exchange     | Usage quota status mailbox counts            | yes         | [CSV](./Samples/Exchange-Usage-quota-status-mailbox-counts.csv) [XLSX](./Samples/Exchange-Usage-quota-status-mailbox-counts.xlsx) | Get the count of user mailboxes by each quota category.
 | Exchange     | Usage storage                                | yes         | [CSV](./Samples/Exchange-Usage-storage.csv) [XLSX](./Samples/Exchange-Usage-storage.xlsx) | Get the amount of storage used by mailboxes in your organization.
 | Exchange     | User forwarding                              | -           | [CSV](./Samples/Exchange-User-forwarding.csv) [XLSX](./Samples/Exchange-User-forwarding.xlsx) |  Get a list of all users within your OU's with information if email forwarding is activated.
+| Exchange     | Litigation hold user mailboxes               | -           | [CSV](./Samples/Exchange-Litigation-hold-user-mailboxes.csv) [XLSX](./Samples/Exchange-Litigation-hold-user-mailboxes.xlsx) | Get the litigation hold information of your user mailboxes.
+| Exchange     | Litigation hold shared mailboxes             | -           | [CSV](./Samples/Exchange-Litigation-hold-shared-mailboxes.csv) [XLSX](./Samples/Exchange-Litigation-hold-shared-mailboxes.xlsx) | Get the litigation hold information of your shared mailboxes.
+| Exchange     | Litigation hold resource mailboxes           | -           | [CSV](./Samples/Exchange-Litigation-hold-resource-mailboxes.csv) [XLSX](./Samples/Exchange-Litigation-hold-resource-mailboxes.xlsx) | Get the litigation hold information of your resource mailboxes.
+| Delegate365  | Report Services                              | -           | [CSV](./Samples/Delegate365-Report-Services.csv) [XLSX](./Samples/Delegate365-Report-Services.xlsx) | Report the count of active users in the services, such as Exchange, OneDrive, SharePoint, Teams, Skype and Yammer
+| Delegate365  | Groups governance                            | yes         | [CSV](./Samples/Delegate365-Groups-governance.csv) [XLSX](./Samples/Delegate365-Groups-governance.xlsx) | All Office 365 groups at a glance with visibility, classification, renewed date, type, owner count, members and guests.
 | Delegate365  | User                                         | -           | [CSV](./Samples/Delegate365-User.csv) [XLSX](./Samples/Delegate365-User.xlsx) | A list of all users the admin can manage.
 | Delegate365  | Security groups                              | -           | [CSV](./Samples/Delegate365-Security-groups.csv) [XLSX](./Samples/Delegate365-Security-groups.xlsx) | A list of all security groups the admin can manage.
 | Delegate365  | Office 365 groups                            | -           | [CSV](./Samples/Delegate365-Office365-groups.csv) [XLSX](./Samples/Delegate365-Office365-groups.xlsx) | A list of all Office 365 groups the admin can manage.
-| Delegate365  | Groups governance                            | yes         | [CSV](./Samples/Delegate365-Groups-governance.csv) [XLSX](./Samples/Delegate365-Groups-governance.xlsx) | All Office 365 groups at a glance with visibility, classification, renewed date, type, owner count, members and guests. (v8.2)
 | Delegate365  | Distribution groups                          | -           | [CSV](./Samples/Delegate365-Distribution-groups.csv) [XLSX](./Samples/Delegate365-Distribution-groups.xlsx) | A list of all distribution groups the admin can manage.
 | Delegate365  | Dynamic groups                               | -           | [CSV](./Samples/Delegate365-Dynamic-groups.csv) [XLSX](./Samples/Delegate365-Dynamic-groups.xlsx) | A list of all dynamic groups the admin can manage. 
 | Delegate365  | Shared mailboxes                             | -           | [CSV](./Samples/Delegate365-Shared-mailboxes.csv) [XLSX](./Samples/Delegate365-Shared-mailboxes.xlsx) | A list of all shared mailboxes the admin can manage. 

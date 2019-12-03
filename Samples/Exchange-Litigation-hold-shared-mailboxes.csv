@@ -1,0 +1,3 @@
+"OU","Name","UserPrincipalName","PrimarySmtpAddress","RecipientType","RecipientTypeDetails","ObjectId","LitigationHoldEnabled","With license","LitigationHoldDate","LitigationHoldOwner","LitigationHoldDuration","AssignedLicenses","AssignedPlans",
+"Seattle","Shared1","shared1@M365B145457.onmicrosoft.com","shared1@M365B145457.onmicrosoft.com","UserMailbox","SharedMailbox","c0a0c25f-7e0d-40ab-912c-d741c200e43a","False","No","","","Unlimited","","",
+"New York","Shared2","shared2@M365B145457.onmicrosoft.com","shared2@M365B145457.onmicrosoft.com","UserMailbox","SharedMailbox","75b68a43-6892-4fee-adc5-0068934c0d56","False","No","","","Unlimited","","",

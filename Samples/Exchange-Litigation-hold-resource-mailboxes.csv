@@ -1,0 +1,2 @@
+"OU","Name","UserPrincipalName","PrimarySmtpAddress","RecipientType","RecipientTypeDetails","ObjectId","LitigationHoldEnabled","With license","LitigationHoldDate","LitigationHoldOwner","LitigationHoldDuration","AssignedLicenses","AssignedPlans",
+"Seattle","Room1","room1@M365B145457.onmicrosoft.com","room1@M365B145457.onmicrosoft.com","UserMailbox","RoomMailbox","e49abf74-8c5f-4180-bda1-6896b0fbd5af","False","No","","","Unlimited","","",
