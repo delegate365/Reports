@@ -15,7 +15,11 @@ The reports are generated as CSV file and as Excel file. The filename is the job
 
 [![link](./Samples/reports-completed.png)](./Samples/reports-completed.png "Click to enlarge")
 
-The report generation can take some minutes, depending on the size of data. The generated reort files are available for 7 days are are automatically deleted after that time. There is no file backup, so pls. download the files if needed within one week. You find a list of all available reports with sample report files here.
+The report generation can take some minutes, depending on the size of data. The generated reort files are available for 7 days are are automatically deleted after that time. If the configuration is set to send a direct download link, this link is valid for 24 hours. Users can directly open the generated report then as shown in thie sample here.
+
+[![link](./Samples/report-notification.png)](./Samples/report-notification.png "Click to enlarge")
+
+There is no file backup, so pls. download the files if needed within one week. You find a list of all available reports with sample report files here.
 
 ## Report Overview
 
@@ -127,6 +131,10 @@ This list includes an enumeration of currently available reports in Delegate365.
 | Delegate365  | OU overview                                  | -           | [CSV](./Samples/Delegate365-OU-overview.csv) [XLSX](./Samples/Delegate365-OU-overview.xlsx) | A list of objects that are assigned to an OU the admin can manage. 
 
 ***Note:*** To download the Delegate365 report list as Excel file, click [here](./Samples/Delegate365-Reports-List.xlsx). If you want to get all sample reports in CSV or Excel format, you can download a [ZIP file](./Samples/Delegate365-Reports-Samples.zip) containing all files for further usage.
+
+## Remarks
+
+report-notification
 
 ## Remarks
 
