@@ -15,11 +15,11 @@ The reports are generated as CSV file and as Excel file. The filename is the job
 
 [![link](./Samples/reports-completed.png)](./Samples/reports-completed.png "Click to enlarge")
 
-The report generation can take some minutes, depending on the size of data. The generated reort files are available for 7 days are are automatically deleted after that time. If the configuration is set to send a direct download link, this link is valid for 24 hours. Users can directly open the generated report then as shown in thie sample here.
+The report generation can take some minutes, depending on the size of data. The generated reort files are available for 7 days are are automatically deleted after that time. If the configuration is set to send a direct download link, this link is valid for 24 hours. Users can directly open the generated report as shown in the email notification sample here.
 
 [![link](./Samples/report-notification.png)](./Samples/report-notification.png "Click to enlarge")
 
-There is no file backup, so pls. download the files if needed within the valid time frame. Find a list of all available reports with sample report files here.
+There is no file backup of reports. So, download the files if needed within the valid time frame. Find a list of all available reports with sample report files below.
 
 ## Report Overview
 
