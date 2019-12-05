@@ -132,8 +132,7 @@ This list includes an enumeration of currently available reports in Delegate365.
 
 ## Remarks
 
-This is a consolidated version of the rpevious versions in this repository for a quick overview of reports that are available in Delegate365. This list will change with newer versions and will b eupdated continuously.
-All information in this reporistory, including Internet or other external references, is subject to change without notice. No part of this document may be reproduced or stored in a retrieval system or transmitted in any form or by any means without the express written permission of atwork gmbh (called "[atwork](https://www.atwork-it.com)" herein). Any names of actual companies and products mentioned herein may be the trademarks of their respective owners.
+This is a consolidated version of the previous versions in this repository. The ReadMe shows a quick overview of all reports that are available in Delegate365. This list will change with newer versions and will be updated continuously. All information in this reporistory, including Internet or other external references, is subject to change without notice.
 
 ## More information
 
