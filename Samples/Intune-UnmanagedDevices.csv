@@ -1,0 +1,10 @@
+﻿DeviceId,DisplayName,DeviceVersion,IsManaged,IsCompliant,TrustType,AccountEnabled,ApproximateLastSignInDateTime,ComplianceExpirationDateTime,DeviceMetadata,OnPremisesLastSyncDateTime,OnPremisesSyncEnabled,OperatingSystemVersion,ProfileType,OperatingSystem
+401551f0-5f80-49fa-9f7e-ef3e7c89d401,DESKTOP-1,2,no,yes,AzureAd,yes,4/7/2021 1:00:03 PM +00:00,,,,no,10.0.19042.685,RegisteredDevice,Windows
+5533fda2-bc13-5b3a-9e0b-69add7532755,PC-4401,2,no,no,AzureAd,yes,6/2/2022 3:22:59 PM +00:00,,,,no,10.0.22621.1,RegisteredDevice,Windows
+8314bb25-29af-4e7f-a409-a893b81eaeea,R2D2-Work1,2,no,no,AzureAd,yes,9/5/2021 6:10:46 PM +00:00,,,,no,10.0.19043.1165,RegisteredDevice,Windows
+77afc195-9a5e-496a-86c9-0280f7d7cfa2,User1_AndroidForWork_2/17/2021_9:08 AM,2,no,no,Workplace,yes,3/17/2022 12:46:18 AM +00:00,,,,no,11.0,RegisteredDevice,AndroidForWork
+c733eaa3-d9f4-52df-a571-c3db593f58b1,MEETINGROOM1,2,no,no,Workplace,yes,5/11/2022 11:09:53 AM +00:00,,,,no,10.0.19100.1031,RegisteredDevice,SurfaceHub
+a729a689-fbd1-4bab-9e4b-efef56f1de3a,DESKTOP-DKBJ8K2,2,no,no,AzureAd,yes,7/25/2022 2:43:34 PM +00:00,,,,no,10.0.22000.675,RegisteredDevice,Windows
+8512670a-abd2-523e-9f8b-74a6e497f6e8,SURFACEHUB2S,2,no,no,Workplace,yes,4/11/2023 4:07:51 PM +00:00,,,,no,10.0.19045.2728,RegisteredDevice,SurfaceHub
+7ee15fbc-2efa-4f92-8171-f64e6b26edb5,User2_AndroidAOSP_7/11/2022_11:01 AM,1,no,no,,yes,,,,,no,11,,AndroidAOSP
+fa31413e-c3c1-3ba6-8e50-873249feeb87,User3_AndroidForWork_3/6/2023_1:28 PM,2,no,no,Workplace,yes,3/15/2023 8:10:01 PM +00:00,,,,no,13.0,RegisteredDevice,AndroidForWork

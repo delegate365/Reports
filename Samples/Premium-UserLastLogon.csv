@@ -1,0 +1,6 @@
+﻿OU,UserPrincipalName,DisplayName,LastLoginDate,InactiveTime,Mail,UserType,ExternalUserState,EmployeeId,CreatedDateTime,AccountEnabled,HasLicenseAssigned,Comment
+Seattle,AdeleV@mycompany.org,Adele Vance,5/1/2023 10:53:27 PM,0,AdeleV@mycompany.org,Member,,P1024,9/22/2020 11:21:20 AM,yes,yes,
+Seattle,AlexW@mycompany.org,Alex Wilber,,-1,AlexW@mycompany.org,Member,,P1002,2/21/2022 1:12:37 PM,no,no,
+New York,ChristieC@mycompany.org,Christie Cline,1/31/2022 7:54:10 AM,487,ChristieC@mycompany.org,Member,,N2033,9/22/2013 11:21:17 AM,yes,no,
+New York,Nestor.W_external.anotherorg.com#EXT#@cmycompany.onmicrosoft.com,Nestor W,5/20/2023 10:49:40 AM,1,Nestor.W@external.anotherorg.com,Guest,PendingAcceptance,,9/22/2013 11:21:20 AM,yes,no,
+New York,BiancaP@subcompany2.org,Bianca Pisani,5/25/2023 9:34:54 PM,7,BiancaP@subcompany2.org,Member,,N4021,5/2/2023 1:04:11 AM,yes,yes,

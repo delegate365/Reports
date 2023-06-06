@@ -1,0 +1,6 @@
+﻿UserPrincipalName,DisplayName,GivenName,Surname,Department,CompanyName,BusinessPhone,JobTitle,PostalCode,City,State,Country,LastLoginDate,InactiveTime,AccountEnabled,Comment
+0014e689572841ec8e4eea0873c278f3John.Doe_contoso.com#EXT#@mycompany.org,John Doe,,,,,,,,,,,,-1,yes,
+doris.little@mycompany.org,Doris Little,Doris,Little,Consulting,,,Consultant,,New York,,,8/27/2021 11:44:20 AM,648,no,
+marina.miller@mycompany.org,Marina Miller,Marina,Miller,Marketing,My Company,,Marketing,,Seattle,,,,-1,no,
+tom.red44_gmail.com#EXT#@mycompany.onmicrosoft.com,tom.red44@gmail.com,,,,,,,,,,,,-1,yes,
+dennis.freemont@mycompany.onmicrosoft.com,Dennis Freemont,Dennis,Freemont,,,+1 (560) 1234567,Senior Consultant,,,,USA,12/31/2020 4:14:39 PM,886,no,

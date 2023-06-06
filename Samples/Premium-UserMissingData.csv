@@ -1,0 +1,6 @@
+﻿OU,UserPrincipalName,DisplayName,GivenName,Surname,Department,CompanyName,BusinessPhone,JobTitle,PostalCode,City,State,Country,LastLoginDate,InactiveTime,AccountEnabled,Comment
+Seattle,AdeleV@mycompany.org,Adele Vance,Adele,Vance,Board of Directors,My Company,,Principal Consultant,,Seattle,WA,,6/1/2023 10:53:27 PM,0,yes,
+Seattle,AlexW@mycompany.org,Alex Wilber,Alex,Wilber,Consulting,,,Senior Consultant,,,,,,-1,no,
+New York,ChristieC@mycompany.org,Christie Cline,Christie,Cline,Office,,,,,New York,,USA,1/31/2022 7:54:10 AM,487,yes,
+New York,Nestor.W_external.anotherorg.com#EXT#@cmycompany.onmicrosoft.com,Nestor W,Nestor,W,Development,My Company,,Development,,New York,,,6/1/2023 10:49:40 AM,1,yes,
+New York,BiancaP@subcompany2.org,Bianca Pisani,Bianca,Pisani,Consulting,,,,,,,,,-1,yes,
