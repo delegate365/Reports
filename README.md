@@ -24,15 +24,9 @@ The report generation can take some minutes, depending on the size of data. The 
 
 There is no file backup of reports. So, download the files if needed within the valid time frame. Find a list of all available reports with sample report files below.
 
-## Report Overview
-
-The following graphics shows an overview of the available reports in the current version of Delegate365.
-
-[![link](./Samples/delegate365-reports-overview.png)](./Samples/delegate365-reports-overview.png "Click to enlarge")
-
 ## Report List
 
-This list includes an enumeration of currently available reports in Delegate365. Reports that are marked with Admin-Only are only available for users who have the *report administration permission* assigned. Click on the sample link to see a sample output in CSV or Excel format with some records to understand the fields that are included. 
+This list includes an enumeration of currently available reports in Delegate365. Reports that are marked with Admin are only available for users who have the *report administration permission* assigned. Click on the sample link to see a sample output in CSV format to understand the fields that are included in each report. 
 
 | Nr | Category                      | Report                                            | Admin | Sample                                                                                    | Description
 |:---|:------------------------------|:--------------------------------------------------|:------|:------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------
@@ -157,7 +151,7 @@ This list includes an enumeration of currently available reports in Delegate365.
 
 This is a consolidated version of the previous versions in this repository. The ReadMe shows a quick overview of all reports that are available in Delegate365. This list will change with newer versions and will be updated continuously. All information in this reporistory, including Internet or other external references, is subject to change without notice.
 
-These reports are available with Delegate365 version 9.1 and later.  
+These reports are available with Delegate365 version 9.5 and later.  
 
 **Update June 2023:**  
 Reports in the **Premium** section are only available for customers who have the Governance Toolkit 365 (GT365) in production. Find more information about GT365 at [**governancetoolkit365.com**](https://governancetoolkit365.com/).  
